@@ -32,17 +32,17 @@ h2 {
 }
 
 h1, h2, h3 {
-    color:var(--text-primary);
+    color: var(--text-primary);
 
 }
 
 h4 {
-    color:var(--text-secondary);
+    color: var(--text-secondary);
     font-size: 1.6rem;
 }
 
 p {
-    color:var(--text-secondary);
+    color: var(--text-secondary);
 }
 
 ul {
