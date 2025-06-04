@@ -15,4 +15,9 @@
         }
 
     }
+
+    .divider {
+        height: 1px;
+        background: var(--border-primary);
+    }
 }
